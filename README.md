@@ -1,4 +1,3 @@
-# Wiki-India.github.io
 # Repository Index
 This repository functions as a centralized knowledge base for documented information and research. 
 ## Primary Index
