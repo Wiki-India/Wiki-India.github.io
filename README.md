@@ -3,7 +3,7 @@
 
 | Topic | Focus | Last Updated |
 | :--- | :--- | :--- |
-| [Bengaluru: The Eternal Name](bengaluru.md) | Fundamental concepts | 2026-07-11 |
+| [Bengaluru: The Eternal Name](Bengaluru.md) | Fundamental concepts | 2026-07-11 |
 | [Subject B](subject-b.md) | Empirical analysis | 2026-07-11 |
 
 ---
